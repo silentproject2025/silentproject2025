@@ -276,10 +276,10 @@ The **culmination of every project above**:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=silentproject2025&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=silentproject2025&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=silentproject2025&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -289,7 +289,7 @@ The **culmination of every project above**:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silentproject2025)
 [![Instagram](https://img.shields.io/badge/Instagram-%40sanzx__project.id-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sanzx_project.id)
 
 </div>
